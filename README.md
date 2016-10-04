@@ -1,24 +1,8 @@
-# README
+# DEVKOOB 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+a web based application that connects the developers and designers 
+with companies and investors and entrepenueres
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+by : Ibrahim Aladhamiy
+Graphic designer & Web developer
+http://iaogd
