@@ -7,6 +7,8 @@ gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 gem 'sqlite3', group: [:development, :test]
 # Use MaterializeLibrary
 gem 'materialize-sass'
+# Use Font Awesome
+gem 'font-awesome-sass'
 
 #Use postgresql as the database for production
 group :production do
